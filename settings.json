@@ -1,0 +1,25 @@
+{
+  "REQUEST_MONTHS_INTERVAL_SECONDS": 10,
+  "REQUEST_MONTHS_CONCURRENT": 1,
+
+  "REQUEST_YEARS_INTERVAL_SECONDS": 1,
+  "REQUEST_YEARS_CONCURRENT": 1,
+
+  "DATA_FOLDER_PATH": "/data/",
+
+  "DISCORD_GUILD_ID": "2979------78900",
+  "DISCORD_REQUEST_HEADERS": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "authorization": "Mj------QXhBOCg8",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"91\", \"Chromium\";v=\"91\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-fingerprint": "86526======cPTHu1YdEcs",
+    "x-super-properties": "----vc------------------------------------------WxsYS81LjAgKFdpbmRvd3Mg----GVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkxLjAuNDQ3Mi4xMjQgU2FmYXJpLzUzNy4zNiIsImJyb3dzZXJfdmVyc2lvbiI6IjkxLjAuNDQ3Mi4xMjQiLCJvc192ZXJzaW9uIjoiMTAiLCJyZWZlcnJlciI6IiIsInJlZmVycmluZ19kb21haW4iOiIiLCJyZWZlcnJlcl9jdXJyZW50IjoiIiwicmVmZXJyaW5nX2RvbWFpbl9jdXJyZW50IjoiIiwicmVsZWFzZV9jaGFubmVsIjoic3RhYmxlIiwiY2xpZW50X2J1aWxkX251bWJlciI6ODk3MDksImNsaWVudF9ldmVudF9zb3VyY2UiOm51bGx9",
+    "cookie": "__cfruid=8ba----d8dfaf70e2be; locale=en-US; _ga=GA1.2.199265034.1626367028; _gid=GA1.2.1550530096.1626367028; OptanonAlertBoxClosed=2021-07-15T16:37:23.305Z; OptanonConsent=isIABGlobal=false&datestamp=Thu+Jul+15+2021+14%3A02%3A02+GMT-0300+(Brasilia+Standard+Time)&version=6.17.0&hosts=&consentId=956233cd-4be3-48f8-a561-7ce46e71057e&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0&AwaitingReconsent=false&geolocation=BR%3BSP"
+  },
+  "DISCORD_REQUEST_REFERRER": "https:------50713---556"
+}

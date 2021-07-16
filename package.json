@@ -1,0 +1,16 @@
+{
+  "name": "query-discord-stats",
+  "version": "1.0.0",
+  "description": "Attempt to use Discord to mine data and get Rate Limited instead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naifu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.6",
+    "queue-promise": "^2.2.1"
+  }
+}
